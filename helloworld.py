@@ -2,7 +2,7 @@
 
 def main():
    """Hello Func"""
-   print("Hello World")
+   print("Hi World")
 
 main()
 
